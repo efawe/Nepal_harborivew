@@ -1,0 +1,10 @@
+ObjectID *,Name,FacilityType,DemandCount,DemandWeight,SourceID,SourceOID,PosAlong,SideOfEdge,CurbApproach,Status,SnapX,SnapY
+3,"Sub Regional Hospital, Ghorahi",Chosen,673,4129995,1,28311077,0.362888,Right Side,Either side of vehicle,OK,82.491404,28.037599
+3,Sagarmatha Zonal Hospital,Chosen,880,8734792,1,29081928,0.267925,Left Side,Either side of vehicle,OK,86.749436,26.535956
+3,Seti Zonal Hospital,Chosen,283,3199020,1,27650020,0.643349,Left Side,Either side of vehicle,OK,80.587459,28.704455
+5,Pokhara Regional Hospital,Chosen,535,1720081,1,28484728,0.676414,Left Side,Either side of vehicle,OK,83.998241,28.212501
+5,Janakpur Zonal Hospital,Chosen,711,4155210,1,29033587,0.882689,Right Side,Either side of vehicle,OK,85.923606,26.733121
+5,Rapti Zonal Hospital,Chosen,663,4129334,1,28313258,0.936428,Left Side,Either side of vehicle,OK,82.297981,28.135499
+5,Seti Zonal Hospital,Chosen,279,3128486,1,27650020,0.643349,Left Side,Either side of vehicle,OK,80.587459,28.704455
+28,Kirtipur Hospital,Required,696,9490176,1,29241109,0.092882,Right Side,Either side of vehicle,OK,85.273047,27.682634
+5,Medical College Dharan,Chosen,543,6039947,1,29375626,0.686917,Left Side,Either side of vehicle,OK,87.284839,26.818388
